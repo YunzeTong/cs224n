@@ -4,6 +4,6 @@
 
 - [x] assignment1
 - [x] assignment2
-- [ ] assignment3
+- [x] assignment3
 - [ ] assignment4
 - [ ] assignment5
